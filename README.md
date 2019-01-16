@@ -10,3 +10,8 @@
 [SSYLKA TUT STALINA NA VAS NET](https://ru.lipsum.com/ "V GULAG POEDESH SUKA")
 
 ![Stalina zhdesh?](https://goo.gl/images/LLUEbZ)
+
+|ЧЕЛОВЕК |КОЛИЧЕСТВО |СРОК|
+|-----|----|----|
+|ФИО |2 |25 лет|
+|~ФИО~ |~нуль~ |~год~|
