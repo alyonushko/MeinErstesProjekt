@@ -9,7 +9,7 @@
 
 [SSYLKA TUT STALINA NA VAS NET](https://ru.lipsum.com/ "V GULAG POEDESH SUKA")
 
-![Stalina zhdesh?](https://goo.gl/images/LLUEbZ)
+![Stalina zhdesh?](https://gazeta.a42.ru/uploads/ac9/ac9d24f0-58c4-11e8-8eda-29055c8dc42b.jpg)
 
 |ЧЕЛОВЕК |КОЛИЧЕСТВО |СРОК|
 |-----|----|----|
